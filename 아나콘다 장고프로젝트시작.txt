@@ -1,0 +1,3 @@
+python C:\Anaconda3\Scripts\django-admin.py startproject mysite
+
+로해야함... 아나콘다안에 파이썬잇어서그런가봄
